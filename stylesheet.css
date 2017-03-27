@@ -1,0 +1,45 @@
+#header {
+		background-color: gray;
+		border-color: black;
+		height: 40px;
+		padding: 10px;
+		margin: 10px;
+		font-size: .8em;
+	
+}
+
+#nav {
+		background-color: gray;
+		border-color: black;
+		height: 40px;
+		padding: 10px;
+		margin: 10px;
+		font-size: .8em;
+	
+}
+
+
+#left {
+		display: inline-block;
+		background-color: gray;
+		height:130px;
+		width: 250px;
+		padding: 10px;
+		margin: 10px;
+	
+}
+
+#right {
+		display: inline-block;
+		background-color: gray;
+		height: 130px;
+		width: 250px;
+		padding: 10px;
+		margin: 10px;
+}
+
+#centered {
+	
+	text-align: center;
+	
+}
