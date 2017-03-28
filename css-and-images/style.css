@@ -1,45 +1,75 @@
-#header {
-		background-color: gray;
-		border-color: black;
-		height: 40px;
-		padding: 10px;
-		margin: 10px;
-		font-size: .8em;
-	
-}
+#bod {
 
-#nav {
-		background-color: gray;
-		border-color: black;
-		height: 40px;
-		padding: 10px;
-		margin: 10px;
-		font-size: .8em;
-	
+	background-color: #A9B2AE;
+
 }
 
 
-#left {
-		display: inline-block;
-		background-color: gray;
-		height:130px;
-		width: 250px;
-		padding: 10px;
-		margin: 10px;
+.header {
+
+	background-color: white;
+	height: 100px;
+	width: 100%;
+	margin: 0px;
+	border-bottom-color: lightgray;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+
+	/* forgot how to make no margin to the end of the webpage */
 	
+}
+	
+	
+.headerTitle {
+
+	background-color: #EDF5E5;
+	height: 100px;
+	width: 250px;
+	margin-left: 75px;
 }
 
-#right {
-		display: inline-block;
-		background-color: gray;
-		height: 130px;
-		width: 250px;
-		padding: 10px;
-		margin: 10px;
+.topLeftName {
+	
+	float: left;
+	font-size: 30px;
+	margin-left:40px;
+
 }
 
-#centered {
+.inputBox {
 	
-	text-align: center;
-	
+	margin-left: 35px;
+	margin-top: 20px;
+	width: 55%;
+	height:400px;
+	background-color:white;
+	float: left;
+
 }
+
+.buttonBox {
+	
+	margin-left: 35px;
+	margin-top: 20px;
+	width: 350px;
+	height:150px;
+	background-color:white;
+	float: left;
+
+}
+
+.topRightButtons {
+
+
+	display: inline;
+
+}
+
+
+
+
+
+
+
+
+
